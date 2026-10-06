@@ -1,0 +1,17 @@
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\bin\Debug\net10.0-windows\Bireau application.exe
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\bin\Debug\net10.0-windows\Bireau application.deps.json
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\bin\Debug\net10.0-windows\Bireau application.runtimeconfig.json
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\bin\Debug\net10.0-windows\Bireau application.dll
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\bin\Debug\net10.0-windows\Bireau application.pdb
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau_application.Form1.resources
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.csproj.GenerateResource.cache
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.AssemblyInfoInputs.cache
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.AssemblyInfo.cs
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.csproj.CoreCompileInputs.cache
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.dll
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\refint\Bireau application.dll
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.pdb
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau application.genruntimeconfig.cache
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\ref\Bireau application.dll
+C:\Users\AYMANE\source\repos\Bireau application\Bireau application\obj\Debug\net10.0-windows\Bireau a.F834D0E0.Up2Date
