@@ -38,7 +38,18 @@ namespace Bireau_application
                     label3.Text +="\n"+ check.Text ;
             }
 
-
+            if (radioButton1.Checked)
+            {
+                MessageBox.Show("Homme");
+            }
+            else if (radioButton2.Checked)
+            {
+                MessageBox.Show("Femme");
+            }
+            else
+            {
+                MessageBox.Show("Choisissez Homme ou Femme");
+            }
         }
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -54,12 +65,12 @@ namespace Bireau_application
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            // code pour checkbox1 si nécessaire
+         
         }
 
         private void checkBox3_CheckedChanged(object sender, EventArgs e)
         {
-            // code pour checkbox3 si nécessaire
+          
 
         }
 
