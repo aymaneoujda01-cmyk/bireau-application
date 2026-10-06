@@ -41,6 +41,7 @@
             radioButton1 = new RadioButton();
             radioButton2 = new RadioButton();
             panel1 = new Panel();
+            panel1.SuspendLayout();
             SuspendLayout();
             // 
             // button1
@@ -108,7 +109,7 @@
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(241, 203);
+            checkBox1.Location = new Point(21, 25);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(60, 29);
             checkBox1.TabIndex = 7;
@@ -119,7 +120,7 @@
             // checkBox2
             // 
             checkBox2.AutoSize = true;
-            checkBox2.Location = new Point(241, 238);
+            checkBox2.Location = new Point(21, 60);
             checkBox2.Name = "checkBox2";
             checkBox2.Size = new Size(77, 29);
             checkBox2.TabIndex = 8;
@@ -129,7 +130,7 @@
             // checkBox3
             // 
             checkBox3.AutoSize = true;
-            checkBox3.Location = new Point(241, 273);
+            checkBox3.Location = new Point(21, 95);
             checkBox3.Name = "checkBox3";
             checkBox3.Size = new Size(71, 29);
             checkBox3.TabIndex = 9;
@@ -162,9 +163,12 @@
             // 
             // panel1
             // 
-            panel1.Location = new Point(223, 203);
+            panel1.Controls.Add(checkBox1);
+            panel1.Controls.Add(checkBox2);
+            panel1.Controls.Add(checkBox3);
+            panel1.Location = new Point(119, 203);
             panel1.Name = "panel1";
-            panel1.Size = new Size(108, 150);
+            panel1.Size = new Size(210, 150);
             panel1.TabIndex = 12;
             // 
             // Form1
@@ -174,9 +178,6 @@
             ClientSize = new Size(884, 510);
             Controls.Add(panel1);
             Controls.Add(radioButton2);
-            Controls.Add(checkBox3);
-            Controls.Add(checkBox2);
-            Controls.Add(checkBox1);
             Controls.Add(comboBox1);
             Controls.Add(label3);
             Controls.Add(textBox1);
@@ -188,6 +189,8 @@
             Name = "Form1";
             Text = "form1";
             Load += Form1_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
         }

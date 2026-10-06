@@ -35,7 +35,7 @@ namespace Bireau_application
             foreach (CheckBox check in panel1.Controls.OfType<CheckBox>())
             {
                 if (check.Checked)
-                    Label +="\n"+ check.Text ;
+                    label3.Text +="\n"+ check.Text ;
             }
 
 
